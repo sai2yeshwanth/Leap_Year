@@ -17,8 +17,6 @@ def leap_year(year):
     else:
         print(f"The '{year}' is Not a Leap Year. ")
 
-
-
     return 
 
 year = int(input("Enter the Year to check if it's a Leap Year or Not : "))

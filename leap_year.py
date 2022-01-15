@@ -1,5 +1,5 @@
 # find the given year is Leap Year or Not
-#  1. If year is divisible by 4, 100, 400 is a leap year.
+# 1. If year is divisible by 4, 100, 400 is a leap year.
 # 2. If year is divisible by 4 and Not divisible by 100 is also a leap year.
 # 3. If year is divisible by 4 and 100 is Not a leap year.
 
